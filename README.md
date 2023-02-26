@@ -10,23 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/Léame/screenshot1.png)
+![Primera parte de la página web](imagen/Léame/screenshot1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/Léame/screenshot2.png)
+![Experiencia](imagen/Léame/screenshot2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/Léame/screenshot3.png)
+![Proyectos](imagen/Léame/screenshot3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/Léame/screenshot4.png)
+![Testimonios](imagen/Léame/screenshot4.png)
 
 Contacto:
 
-![Contacto](imagenes/Léame/screenshot5.png)
+![Contacto](imagen/Léame/screenshot5.png)
 
 ## Tecnologías
 
